@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lutiv\\source\\repos\\Project Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\source\\repos\\Project Management\\project management\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\source\\repos\\Project Management\\project management\\components\\minimizebtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\components\\minimizebtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|c:\\users\\lutiv\\source\\repos\\project management\\project management\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|c:\\users\\lutiv\\source\\repos\\project management\\project management\\taskoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\taskoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\source\\repos\\Project Management\\project management\\taskboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\taskboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|c:\\users\\lutiv\\source\\repos\\project management\\project management\\createfirstproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\createfirstproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|c:\\users\\lutiv\\source\\repos\\project management\\project management\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|c:\\users\\lutiv\\source\\repos\\project management\\project management\\components\\projectlistcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\components\\projectlistcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\source\\repos\\Project Management\\Project Management\\Home.cs",
+              "RelativeDocumentMoniker": "Project Management\\Home.cs",
+              "ToolTip": "C:\\Users\\lutiv\\source\\repos\\Project Management\\Project Management\\Home.cs",
+              "RelativeToolTip": "Project Management\\Home.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAlwEEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:17:09.105Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lutiv\\source\\repos\\Project Management\\Project Management\\Home.cs",
+              "RelativeDocumentMoniker": "Project Management\\Home.cs",
+              "ToolTip": "C:\\Users\\lutiv\\source\\repos\\Project Management\\Project Management\\Home.cs [Design]",
+              "RelativeToolTip": "Project Management\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:49:38.775Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateFirstProject.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\source\\repos\\Project Management\\Project Management\\CreateFirstProject.cs",
+              "RelativeDocumentMoniker": "Project Management\\CreateFirstProject.cs",
+              "ToolTip": "C:\\Users\\lutiv\\source\\repos\\Project Management\\Project Management\\CreateFirstProject.cs",
+              "RelativeToolTip": "Project Management\\CreateFirstProject.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwIcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:27:37.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskBoard.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\source\\repos\\Project Management\\Project Management\\TaskBoard.cs",
+              "RelativeDocumentMoniker": "Project Management\\TaskBoard.cs",
+              "ToolTip": "C:\\Users\\lutiv\\source\\repos\\Project Management\\Project Management\\TaskBoard.cs",
+              "RelativeToolTip": "Project Management\\TaskBoard.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowE0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:45:10.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskOverview.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lutiv\\source\\repos\\Project Management\\Project Management\\TaskOverview.cs",
+              "RelativeDocumentMoniker": "Project Management\\TaskOverview.cs",
+              "ToolTip": "C:\\Users\\lutiv\\source\\repos\\Project Management\\Project Management\\TaskOverview.cs [Design]",
+              "RelativeToolTip": "Project Management\\TaskOverview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:10:43.504Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lutiv\\source\\repos\\Project Management\\Project Management\\Login.cs",
+              "RelativeDocumentMoniker": "Project Management\\Login.cs",
+              "ToolTip": "C:\\Users\\lutiv\\source\\repos\\Project Management\\Project Management\\Login.cs [Design]",
+              "RelativeToolTip": "Project Management\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:10:17.596Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinimizeBtn.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\source\\repos\\Project Management\\Project Management\\Components\\MinimizeBtn.cs",
+              "RelativeDocumentMoniker": "Project Management\\Components\\MinimizeBtn.cs",
+              "ToolTip": "C:\\Users\\lutiv\\source\\repos\\Project Management\\Project Management\\Components\\MinimizeBtn.cs",
+              "RelativeToolTip": "Project Management\\Components\\MinimizeBtn.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:32:04.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectListCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lutiv\\source\\repos\\Project Management\\Project Management\\Components\\ProjectListCard.cs",
+              "RelativeDocumentMoniker": "Project Management\\Components\\ProjectListCard.cs",
+              "ToolTip": "C:\\Users\\lutiv\\source\\repos\\Project Management\\Project Management\\Components\\ProjectListCard.cs [Design]",
+              "RelativeToolTip": "Project Management\\Components\\ProjectListCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:27:13.559Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

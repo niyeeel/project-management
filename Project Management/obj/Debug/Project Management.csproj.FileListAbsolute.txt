@@ -1,0 +1,67 @@
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project Management.csproj.AssemblyReference.cache
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.Properties.Resources.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project Management.csproj.GenerateResource.cache
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project Management.csproj.CoreCompileInputs.cache
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\Project Management.exe.config
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\Project Management.exe
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\Project Management.pdb
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\Google.Protobuf.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\Guna.UI2.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\MySql.Data.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\System.Buffers.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\System.IO.Pipelines.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\System.Memory.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\ZstdSharp.dll
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\Google.Protobuf.pdb
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\Google.Protobuf.xml
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\MySql.Data.xml
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\System.Buffers.xml
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\System.IO.Pipelines.xml
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\System.Memory.xml
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lutiv\source\repos\Project Management\Project Management\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project .F72AE62B.Up2Date
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project Management.exe
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project Management.pdb
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.nav.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.Register.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.Username.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.Password.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.Btn.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.Login.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.Home.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.ProjectListCard.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.CloseBtn.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.CreateFirstProject.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.MinimizeBtn.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.TaskBoard.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.TaskCard.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.AddBtn.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.AddMember.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.Components.MembersCard.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.Components.UserCircle.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.Components.NoProject.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.Components.CancelBtn.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.TaskCreate.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.AssignForm.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.Components.AssignedCard.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.TaskOverview.resources
+C:\Users\lutiv\source\repos\Project Management\Project Management\obj\Debug\Project_Management.Components.CommentCard.resources
