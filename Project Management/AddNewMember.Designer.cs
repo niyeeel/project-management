@@ -33,13 +33,14 @@
             this.PanelContent = new System.Windows.Forms.FlowLayoutPanel();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             this.Role = new System.Windows.Forms.Label();
-            this.UserLTR = new Project_Management.Components.UserCircle();
             this.Username = new System.Windows.Forms.Label();
-            this.NewMemberList = new System.Windows.Forms.FlowLayoutPanel();
-            this.addBtn1 = new Project_Management.AddBtn();
-            this.btn1 = new Project_Management.Btn();
-            this.btn2 = new Project_Management.Btn();
             this.MembersList = new System.Windows.Forms.FlowLayoutPanel();
+            this.NewMemberList = new System.Windows.Forms.FlowLayoutPanel();
+            this.guna2ShadowForm1 = new Guna.UI2.WinForms.Guna2ShadowForm(this.components);
+            this.btn2 = new Project_Management.Btn();
+            this.btn1 = new Project_Management.Btn();
+            this.UserLTR = new Project_Management.Components.UserCircle();
+            this.addBtn1 = new Project_Management.AddBtn();
             this.PanelContent.SuspendLayout();
             this.guna2Panel1.SuspendLayout();
             this.SuspendLayout();
@@ -57,7 +58,7 @@
             this.PanelContent.Controls.Add(this.addBtn1);
             this.PanelContent.Location = new System.Drawing.Point(12, 12);
             this.PanelContent.Name = "PanelContent";
-            this.PanelContent.Size = new System.Drawing.Size(625, 134);
+            this.PanelContent.Size = new System.Drawing.Size(625, 378);
             this.PanelContent.TabIndex = 25;
             this.PanelContent.Paint += new System.Windows.Forms.PaintEventHandler(this.PanelContent_Paint);
             // 
@@ -82,14 +83,6 @@
             this.Role.TabIndex = 23;
             this.Role.Text = "Project Manager";
             // 
-            // UserLTR
-            // 
-            this.UserLTR.BackColor = System.Drawing.Color.Transparent;
-            this.UserLTR.Location = new System.Drawing.Point(11, 5);
-            this.UserLTR.Name = "UserLTR";
-            this.UserLTR.Size = new System.Drawing.Size(26, 26);
-            this.UserLTR.TabIndex = 22;
-            // 
             // Username
             // 
             this.Username.AutoSize = true;
@@ -100,38 +93,27 @@
             this.Username.TabIndex = 21;
             this.Username.Text = "(User) You";
             // 
+            // MembersList
+            // 
+            this.MembersList.AutoScroll = true;
+            this.MembersList.AutoSize = true;
+            this.MembersList.Location = new System.Drawing.Point(609, 3);
+            this.MembersList.Name = "MembersList";
+            this.MembersList.Size = new System.Drawing.Size(0, 0);
+            this.MembersList.TabIndex = 29;
+            // 
             // NewMemberList
             // 
             this.NewMemberList.AutoScroll = true;
-            this.NewMemberList.Location = new System.Drawing.Point(3, 66);
+            this.NewMemberList.AutoSize = true;
+            this.NewMemberList.Location = new System.Drawing.Point(615, 3);
             this.NewMemberList.Name = "NewMemberList";
-            this.NewMemberList.Size = new System.Drawing.Size(600, 11);
+            this.NewMemberList.Size = new System.Drawing.Size(0, 0);
             this.NewMemberList.TabIndex = 28;
             // 
-            // addBtn1
+            // guna2ShadowForm1
             // 
-            this.addBtn1.BackColor = System.Drawing.Color.Transparent;
-            this.addBtn1.Location = new System.Drawing.Point(3, 83);
-            this.addBtn1.Name = "addBtn1";
-            this.addBtn1.Size = new System.Drawing.Size(25, 25);
-            this.addBtn1.TabIndex = 22;
-            this.addBtn1.Load += new System.EventHandler(this.addBtn1_Load);
-            // 
-            // btn1
-            // 
-            this.btn1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btn1.BackColor = System.Drawing.Color.Transparent;
-            this.btn1.BgColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(69)))), ((int)(((byte)(129)))));
-            this.btn1.BorderColor = System.Drawing.Color.Black;
-            this.btn1.BorderThickness = 2;
-            this.btn1.Dimentions = new System.Drawing.Size(183, 45);
-            this.btn1.Location = new System.Drawing.Point(62, 407);
-            this.btn1.Name = "btn1";
-            this.btn1.Size = new System.Drawing.Size(183, 45);
-            this.btn1.TabIndex = 26;
-            this.btn1.TextColor = System.Drawing.Color.White;
-            this.btn1.TextValue = "Close";
-            this.btn1.Load += new System.EventHandler(this.btn1_Load);
+            this.guna2ShadowForm1.TargetForm = this;
             // 
             // btn2
             // 
@@ -149,13 +131,38 @@
             this.btn2.TextValue = "Save";
             this.btn2.Load += new System.EventHandler(this.btn2_Load);
             // 
-            // MembersList
+            // btn1
             // 
-            this.MembersList.AutoScroll = true;
-            this.MembersList.Location = new System.Drawing.Point(3, 49);
-            this.MembersList.Name = "MembersList";
-            this.MembersList.Size = new System.Drawing.Size(600, 11);
-            this.MembersList.TabIndex = 29;
+            this.btn1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btn1.BackColor = System.Drawing.Color.Transparent;
+            this.btn1.BgColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(69)))), ((int)(((byte)(129)))));
+            this.btn1.BorderColor = System.Drawing.Color.Black;
+            this.btn1.BorderThickness = 2;
+            this.btn1.Dimentions = new System.Drawing.Size(183, 45);
+            this.btn1.Location = new System.Drawing.Point(62, 407);
+            this.btn1.Name = "btn1";
+            this.btn1.Size = new System.Drawing.Size(183, 45);
+            this.btn1.TabIndex = 26;
+            this.btn1.TextColor = System.Drawing.Color.White;
+            this.btn1.TextValue = "Close";
+            this.btn1.Load += new System.EventHandler(this.btn1_Load);
+            // 
+            // UserLTR
+            // 
+            this.UserLTR.BackColor = System.Drawing.Color.Transparent;
+            this.UserLTR.Location = new System.Drawing.Point(11, 5);
+            this.UserLTR.Name = "UserLTR";
+            this.UserLTR.Size = new System.Drawing.Size(26, 26);
+            this.UserLTR.TabIndex = 22;
+            // 
+            // addBtn1
+            // 
+            this.addBtn1.BackColor = System.Drawing.Color.Transparent;
+            this.addBtn1.Location = new System.Drawing.Point(3, 49);
+            this.addBtn1.Name = "addBtn1";
+            this.addBtn1.Size = new System.Drawing.Size(25, 25);
+            this.addBtn1.TabIndex = 22;
+            this.addBtn1.Load += new System.EventHandler(this.addBtn1_Load);
             // 
             // AddNewMember
             // 
@@ -167,9 +174,11 @@
             this.Controls.Add(this.PanelContent);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "AddNewMember";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "AddNewMember";
             this.Load += new System.EventHandler(this.AddNewMember_Load);
             this.PanelContent.ResumeLayout(false);
+            this.PanelContent.PerformLayout();
             this.guna2Panel1.ResumeLayout(false);
             this.guna2Panel1.PerformLayout();
             this.ResumeLayout(false);
@@ -189,5 +198,6 @@
         private AddBtn addBtn1;
         public System.Windows.Forms.FlowLayoutPanel NewMemberList;
         public System.Windows.Forms.FlowLayoutPanel MembersList;
+        private Guna.UI2.WinForms.Guna2ShadowForm guna2ShadowForm1;
     }
 }
