@@ -33,6 +33,7 @@ namespace Project_Management
             this.components = new System.ComponentModel.Container();
             this.guna2Elipse1 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.ContentPanel = new System.Windows.Forms.Panel();
+            this.LogoutBtn = new System.Windows.Forms.LinkLabel();
             this.guna2Panel4 = new Guna.UI2.WinForms.Guna2Panel();
             this.btn1 = new Project_Management.Btn();
             this.ProjectsDisplay = new System.Windows.Forms.FlowLayoutPanel();
@@ -53,7 +54,6 @@ namespace Project_Management
             this.label = new System.Windows.Forms.Label();
             this.nav1 = new Project_Management.nav();
             this.guna2DragControl1 = new Guna.UI2.WinForms.Guna2DragControl(this.components);
-            this.LogoutBtn = new System.Windows.Forms.LinkLabel();
             this.ContentPanel.SuspendLayout();
             this.guna2Panel4.SuspendLayout();
             this.flowPanel.SuspendLayout();
@@ -80,6 +80,21 @@ namespace Project_Management
             this.ContentPanel.Name = "ContentPanel";
             this.ContentPanel.Size = new System.Drawing.Size(1060, 670);
             this.ContentPanel.TabIndex = 2;
+            this.ContentPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.ContentPanel_Paint);
+            // 
+            // LogoutBtn
+            // 
+            this.LogoutBtn.AutoSize = true;
+            this.LogoutBtn.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LogoutBtn.ForeColor = System.Drawing.Color.Black;
+            this.LogoutBtn.LinkColor = System.Drawing.Color.Black;
+            this.LogoutBtn.Location = new System.Drawing.Point(992, 42);
+            this.LogoutBtn.Name = "LogoutBtn";
+            this.LogoutBtn.Size = new System.Drawing.Size(51, 17);
+            this.LogoutBtn.TabIndex = 4;
+            this.LogoutBtn.TabStop = true;
+            this.LogoutBtn.Text = "Logout";
+            this.LogoutBtn.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LogoutBtn_LinkClicked);
             // 
             // guna2Panel4
             // 
@@ -287,26 +302,13 @@ namespace Project_Management
             this.nav1.Name = "nav1";
             this.nav1.Size = new System.Drawing.Size(1060, 50);
             this.nav1.TabIndex = 0;
+            this.nav1.Load += new System.EventHandler(this.nav1_Load);
             // 
             // guna2DragControl1
             // 
             this.guna2DragControl1.DockIndicatorTransparencyValue = 0.6D;
             this.guna2DragControl1.TargetControl = this.nav1;
             this.guna2DragControl1.UseTransparentDrag = true;
-            // 
-            // LogoutBtn
-            // 
-            this.LogoutBtn.AutoSize = true;
-            this.LogoutBtn.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LogoutBtn.ForeColor = System.Drawing.Color.Black;
-            this.LogoutBtn.LinkColor = System.Drawing.Color.Black;
-            this.LogoutBtn.Location = new System.Drawing.Point(992, 42);
-            this.LogoutBtn.Name = "LogoutBtn";
-            this.LogoutBtn.Size = new System.Drawing.Size(51, 17);
-            this.LogoutBtn.TabIndex = 4;
-            this.LogoutBtn.TabStop = true;
-            this.LogoutBtn.Text = "Logout";
-            this.LogoutBtn.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LogoutBtn_LinkClicked);
             // 
             // Home
             // 

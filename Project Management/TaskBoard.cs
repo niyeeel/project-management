@@ -192,17 +192,18 @@ namespace Project_Management
             task.ShowDialog();
         }
 
-        private void addBtn3_Load(object sender, EventArgs e)
-        {
-            addBtn3.Btn.Click += Btn_Click1;
-        }
-
         private void Btn_Click1(object sender, EventArgs e)
         {
             TaskCreate task = new TaskCreate(projId, ProjectName.Text, userId, panelCompleted, "Completed", this);
             task.YouCard.Username.Text = userName;
             task.YouCard.UserLTR.Letter.Text = userName.Substring(0, 1).ToUpper();
             task.ShowDialog();
+        }
+
+        private void AddNewMemberBtn_Click(object sender, EventArgs e)
+        {
+            AddNewMember addm = new AddNewMember(projId, userId, userName);
+            addm.Show();
         }
     }
 }

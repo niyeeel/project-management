@@ -123,5 +123,10 @@ namespace Project_Management
                 e.SuppressKeyPress = true;
             }
         }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

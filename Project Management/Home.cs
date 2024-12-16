@@ -158,7 +158,7 @@ namespace Project_Management
         private void Main_Click(object sender, EventArgs e)
         {
             CreateFirstProject create = new CreateFirstProject(user);
-            create.NextBtn.Visible = false;
+            create.NextBtn.Text = "Back";
             create.Show();
             this.Close();
         }
@@ -166,6 +166,16 @@ namespace Project_Management
         private void LogoutBtn_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             Application.Restart();
+        }
+
+        private void nav1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ContentPanel_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

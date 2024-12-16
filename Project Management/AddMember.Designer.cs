@@ -96,6 +96,7 @@
             this.Name = "AddMember";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "AddMember";
+            this.Load += new System.EventHandler(this.AddMember_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

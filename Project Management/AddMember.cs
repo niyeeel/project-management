@@ -8,9 +8,9 @@ namespace Project_Management
 {
     public partial class AddMember : Form
     {
-        private CreateFirstProject mForm;
+        private Form mForm;
         Auth auth = new Auth();
-        public AddMember(CreateFirstProject mForm)
+        public AddMember(Form mForm)
         {
             InitializeComponent();
             this.mForm = mForm;
@@ -22,7 +22,8 @@ namespace Project_Management
         }
         private bool CheckIfUserAdded(string username)
         {
-            foreach (MembersCard m in mForm.MembersList.Controls)
+            CreateFirstProject createForm = (CreateFirstProject)mForm;
+            foreach (MembersCard m in createForm.MembersList.Controls)
             {
                 if (m.Username.Text == username)
                 {
@@ -35,45 +36,95 @@ namespace Project_Management
         private void Main_Click(object sender, EventArgs e)
         {
             string username = username1.Txt.Text;
-            try
+            if (mForm is CreateFirstProject createForm)
             {
-                using (MySqlConnection conn = new MySqlConnection(auth.constring))
+                try
                 {
-                    conn.Open();
-                    string qry = "SELECT * FROM `users` WHERE Username = @user";
-                    using (MySqlCommand cmd = new MySqlCommand(qry, conn))
+                    using (MySqlConnection conn = new MySqlConnection(auth.constring))
                     {
-                        cmd.Parameters.AddWithValue("@user", username);
-                        MySqlDataReader reader = cmd.ExecuteReader();
-                        if (reader.Read())
+                        conn.Open();
+                        string qry = "SELECT * FROM `users` WHERE Username = @user";
+                        using (MySqlCommand cmd = new MySqlCommand(qry, conn))
                         {
-                            string user = reader.GetString("Username");
-                            if (CheckIfUserAdded(user))
+                            cmd.Parameters.AddWithValue("@user", username);
+                            MySqlDataReader reader = cmd.ExecuteReader();
+                            if (reader.Read())
                             {
-                                MessageBox.Show("You already added this member");
+                                string user = reader.GetString("Username");
+                                if (CheckIfUserAdded(user))
+                                {
+                                    MessageBox.Show("You already added this member");
+                                }
+                                else
+                                {
+                                    MembersCard membersCard = new MembersCard();
+                                    membersCard.Username.Text = user;
+                                    membersCard.UserLTR.Letter.Text = user.Substring(0, 1).ToUpper();
+                                    membersCard.MinusBtn.Click += createForm.MinusBtn_Click;
+                                    createForm.MembersList.Controls.Add(membersCard);
+                                    conn.Close();
+                                    this.Close();
+                                }
                             }
                             else
                             {
-                                MembersCard membersCard = new MembersCard();
-                                membersCard.Username.Text = user;
-                                membersCard.UserLTR.Letter.Text = user.Substring(0, 1).ToUpper();
-                                membersCard.MinusBtn.Click += mForm.MinusBtn_Click;
-                                mForm.MembersList.Controls.Add(membersCard);
-                                conn.Close();
-                                this.Close();
+                                MessageBox.Show("Can't Find The User", "Error");
                             }
-                        }
-                        else
-                        {
-                            MessageBox.Show("Can't Find The User", "Error");
                         }
                     }
                 }
-            }
-            catch (Exception ex)
+                catch (Exception ex)
+                {
+                    MessageBox.Show("An error occured: " + ex.Message, "Error");
+                }
+            } else if (mForm is AddNewMember addForm)
             {
-                MessageBox.Show("An error occured: " + ex.Message, "Error");
+                try
+                {
+                    using (MySqlConnection conn = new MySqlConnection(auth.constring))
+                    {
+                        conn.Open();
+                        string qry = "SELECT * FROM `users` WHERE Username = @user";
+                        using (MySqlCommand cmd = new MySqlCommand(qry, conn))
+                        {
+                            cmd.Parameters.AddWithValue("@user", username);
+                            MySqlDataReader reader = cmd.ExecuteReader();
+                            if (reader.Read())
+                            {
+                                string user = reader.GetString("Username");
+                                if (CheckIfUserAdded(user))
+                                {
+                                    MessageBox.Show("You already added this member");
+                                }
+                                else
+                                {
+                                    MembersCard membersCard = new MembersCard();
+                                    membersCard.Username.Text = user;
+                                    membersCard.UserLTR.Letter.Text = user.Substring(0, 1).ToUpper();
+                                    membersCard.MinusBtn.Click += addForm.MinusBtn_Click;
+                                    addForm.NewMemberList.Controls.Add(membersCard);
+                                    conn.Close();
+                                    this.Close();
+                                }
+                            }
+                            else
+                            {
+                                MessageBox.Show("Can't Find The User", "Error");
+                            }
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("An error occured: " + ex.Message, "Error");
+                }
             }
+           
+        }
+
+        private void AddMember_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

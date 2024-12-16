@@ -131,9 +131,9 @@ namespace Project_Management
                         return true;
                     }
                 }
-                catch (MySqlException ex)
+                catch 
                 {
-                    Msg("An Error occured: " + ex.Message, "Error");
+                    Msg("User is already Exist", "Error");
                     conn.Close();
                     return false;
                 }

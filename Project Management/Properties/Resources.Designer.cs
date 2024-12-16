@@ -83,6 +83,16 @@ namespace Project_Management.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap addmember {
+            get {
+                object obj = ResourceManager.GetObject("addmember", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap back {
             get {
                 object obj = ResourceManager.GetObject("back", resourceCulture);
@@ -167,6 +177,26 @@ namespace Project_Management.Properties {
             get {
                 object obj = ResourceManager.GetObject("home_white_", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap LogoPM {
+            get {
+                object obj = ResourceManager.GetObject("LogoPM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon LogoPM1 {
+            get {
+                object obj = ResourceManager.GetObject("LogoPM1", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
             }
         }
         

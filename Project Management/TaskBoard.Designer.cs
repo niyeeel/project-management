@@ -37,11 +37,11 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.addBtn3 = new Project_Management.AddBtn();
             this.addBtn2 = new Project_Management.AddBtn();
             this.addBtn1 = new Project_Management.AddBtn();
             this.nav1 = new Project_Management.nav();
             this.BackBtn = new Guna.UI2.WinForms.Guna2ImageButton();
+            this.AddNewMemberBtn = new Guna.UI2.WinForms.Guna2ImageButton();
             this.SuspendLayout();
             // 
             // guna2Elipse1
@@ -112,15 +112,6 @@
             this.label4.TabIndex = 8;
             this.label4.Text = "Completed";
             // 
-            // addBtn3
-            // 
-            this.addBtn3.BackColor = System.Drawing.Color.Transparent;
-            this.addBtn3.Location = new System.Drawing.Point(773, 181);
-            this.addBtn3.Name = "addBtn3";
-            this.addBtn3.Size = new System.Drawing.Size(25, 25);
-            this.addBtn3.TabIndex = 11;
-            this.addBtn3.Load += new System.EventHandler(this.addBtn3_Load);
-            // 
             // addBtn2
             // 
             this.addBtn2.BackColor = System.Drawing.Color.Transparent;
@@ -162,12 +153,27 @@
             this.BackBtn.TabIndex = 3;
             this.BackBtn.Click += new System.EventHandler(this.BackBtn_Click);
             // 
+            // AddNewMemberBtn
+            // 
+            this.AddNewMemberBtn.CheckedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.AddNewMemberBtn.HoverState.ImageSize = new System.Drawing.Size(52, 52);
+            this.AddNewMemberBtn.Image = global::Project_Management.Properties.Resources.addmember;
+            this.AddNewMemberBtn.ImageOffset = new System.Drawing.Point(0, 0);
+            this.AddNewMemberBtn.ImageRotate = 0F;
+            this.AddNewMemberBtn.ImageSize = new System.Drawing.Size(50, 50);
+            this.AddNewMemberBtn.Location = new System.Drawing.Point(875, 56);
+            this.AddNewMemberBtn.Name = "AddNewMemberBtn";
+            this.AddNewMemberBtn.PressedState.ImageSize = new System.Drawing.Size(50, 50);
+            this.AddNewMemberBtn.Size = new System.Drawing.Size(50, 50);
+            this.AddNewMemberBtn.TabIndex = 11;
+            this.AddNewMemberBtn.Click += new System.EventHandler(this.AddNewMemberBtn_Click);
+            // 
             // TaskBoard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1060, 720);
-            this.Controls.Add(this.addBtn3);
+            this.Controls.Add(this.AddNewMemberBtn);
             this.Controls.Add(this.addBtn2);
             this.Controls.Add(this.addBtn1);
             this.Controls.Add(this.label4);
@@ -197,12 +203,12 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
-        private AddBtn addBtn3;
         private AddBtn addBtn2;
         private AddBtn addBtn1;
         public System.Windows.Forms.Label ProjectName;
         public System.Windows.Forms.FlowLayoutPanel panelCompleted;
         public System.Windows.Forms.FlowLayoutPanel panelInProgress;
         public System.Windows.Forms.FlowLayoutPanel panelToDo;
+        private Guna.UI2.WinForms.Guna2ImageButton AddNewMemberBtn;
     }
 }

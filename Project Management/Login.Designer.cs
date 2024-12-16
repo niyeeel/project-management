@@ -144,11 +144,17 @@
             // 
             // LoginBtn
             // 
+            this.LoginBtn.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.LoginBtn.BackColor = System.Drawing.Color.Transparent;
+            this.LoginBtn.BgColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(69)))), ((int)(((byte)(129)))));
+            this.LoginBtn.BorderColor = System.Drawing.Color.Empty;
+            this.LoginBtn.BorderThickness = 0;
+            this.LoginBtn.Dimentions = new System.Drawing.Size(187, 52);
             this.LoginBtn.Location = new System.Drawing.Point(90, 228);
             this.LoginBtn.Name = "LoginBtn";
             this.LoginBtn.Size = new System.Drawing.Size(187, 52);
             this.LoginBtn.TabIndex = 18;
+            this.LoginBtn.TextColor = System.Drawing.Color.White;
             this.LoginBtn.TextValue = "Log In";
             this.LoginBtn.Load += new System.EventHandler(this.btn1_Load);
             // 
@@ -166,6 +172,7 @@
             this.usernameTxt.BackColor = System.Drawing.Color.Transparent;
             this.usernameTxt.Location = new System.Drawing.Point(43, 109);
             this.usernameTxt.Name = "usernameTxt";
+            this.usernameTxt.PlaceHolder = null;
             this.usernameTxt.Size = new System.Drawing.Size(292, 35);
             this.usernameTxt.TabIndex = 15;
             this.usernameTxt.Load += new System.EventHandler(this.usernameTxt_Load);
@@ -188,6 +195,7 @@
             this.Name = "Login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
+            this.Load += new System.EventHandler(this.Login_Load);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();

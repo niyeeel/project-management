@@ -63,7 +63,7 @@ namespace Project_Management
             }
             else if (password.Length < 8)
             {
-                MessageBox.Show("Username must be atleast 8 characters long", "Error");
+                MessageBox.Show("password must be atleast 8 characters long", "Error");
             }
             else
             {
