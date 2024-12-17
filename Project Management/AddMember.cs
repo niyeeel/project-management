@@ -22,14 +22,26 @@ namespace Project_Management
         }
         private bool CheckIfUserAdded(string username)
         {
-            CreateFirstProject createForm = (CreateFirstProject)mForm;
-            foreach (MembersCard m in createForm.MembersList.Controls)
+           if (mForm is CreateFirstProject createProject)
             {
-                if (m.Username.Text == username)
+                foreach (MembersCard m in createProject.MembersList.Controls)
                 {
-                    return true;
+                    if (m.Username.Text == username)
+                    {
+                        return true;
+                    }
+                }
+            } else if (mForm is AddNewMember addmember)
+            {
+                foreach (MembersCard m in addmember.NewMemberList.Controls)
+                {
+                    if (m.Username.Text == username)
+                    {
+                        return true;
+                    }
                 }
             }
+            
             return false;
         }
 

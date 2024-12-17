@@ -203,7 +203,7 @@ namespace Project_Management
         private void AddNewMemberBtn_Click(object sender, EventArgs e)
         {
             AddNewMember addm = new AddNewMember(projId, userId, userName);
-            addm.Show();
+            addm.ShowDialog();
         }
     }
 }

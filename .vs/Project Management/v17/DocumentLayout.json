@@ -1,77 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jushu\\source\\repos\\",
+  "WorkspaceRootPath": "C:\\Users\\lutiv\\Downloads\\project-management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\jushu\\source\\repos\\project management\\taskboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\taskboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|c:\\users\\jushu\\source\\repos\\project management\\addnewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\Downloads\\project-management\\project management\\addnewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\addnewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|c:\\users\\jushu\\source\\repos\\project management\\addnewmember.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\addnewmember.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\jushu\\source\\repos\\project management\\createfirstproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\createfirstproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\jushu\\source\\repos\\project management\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\jushu\\source\\repos\\project management\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\jushu\\source\\repos\\project management\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|c:\\users\\jushu\\source\\repos\\project management\\addnewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\Downloads\\project-management\\project management\\addnewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\addnewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\jushu\\source\\repos\\project management\\taskboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\taskboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\jushu\\source\\repos\\project management\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\Downloads\\project-management\\project management\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\jushu\\source\\repos\\project management\\createfirstproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|c:\\users\\lutiv\\downloads\\project-management\\project management\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\Downloads\\project-management\\project management\\taskboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\taskboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|c:\\users\\lutiv\\downloads\\project-management\\project management\\taskboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\taskboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|c:\\users\\lutiv\\downloads\\project-management\\project management\\assignform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\assignform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|c:\\users\\lutiv\\downloads\\project-management\\project management\\assignform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\assignform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\Downloads\\project-management\\project management\\addnewmember.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\addnewmember.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\Downloads\\project-management\\project management\\createfirstproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\createfirstproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\Downloads\\project-management\\project management\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\Downloads\\project-management\\project management\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\Downloads\\project-management\\project management\\createfirstproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\createfirstproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\jushu\\source\\repos\\project management\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\Downloads\\project-management\\project management\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\jushu\\source\\repos\\project management\\components\\btn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\Downloads\\project-management\\project management\\components\\btn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\components\\btn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\jushu\\source\\repos\\project management\\components\\btn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\Downloads\\project-management\\project management\\components\\btn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\components\\btn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\jushu\\source\\repos\\project management\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\Downloads\\project-management\\project management\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\jushu\\source\\repos\\project management\\components\\nav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\Downloads\\project-management\\project management\\components\\nav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\components\\nav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\jushu\\source\\repos\\project management\\taskoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\Downloads\\project-management\\project management\\taskoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\taskoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\jushu\\source\\repos\\project management\\components\\minimizebtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|C:\\Users\\lutiv\\Downloads\\project-management\\project management\\components\\minimizebtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{993214B5-BD9D-45FE-B008-C03E6E59B4EE}|Project Management\\Project Management.csproj|solutionrelative:project management\\components\\minimizebtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,33 +90,162 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Home.cs",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\Home.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\Home.cs",
               "RelativeDocumentMoniker": "Project Management\\Home.cs",
-              "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\Home.cs",
+              "ToolTip": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\Home.cs",
               "RelativeToolTip": "Project Management\\Home.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T15:17:09.105Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddNewMember.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\AddNewMember.cs",
+              "RelativeDocumentMoniker": "Project Management\\AddNewMember.cs",
+              "ToolTip": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\AddNewMember.cs",
+              "RelativeToolTip": "Project Management\\AddNewMember.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAmwLcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:01:54.544Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddNewMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\AddNewMember.cs",
+              "RelativeDocumentMoniker": "Project Management\\AddNewMember.cs",
+              "ToolTip": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\AddNewMember.cs [Design]",
+              "RelativeToolTip": "Project Management\\AddNewMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:51:45.232Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AddMember.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\AddMember.cs",
+              "RelativeDocumentMoniker": "Project Management\\AddMember.cs",
+              "ToolTip": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\AddMember.cs",
+              "RelativeToolTip": "Project Management\\AddMember.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwDEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:19:16.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\AddMember.cs",
+              "RelativeDocumentMoniker": "Project Management\\AddMember.cs",
+              "ToolTip": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\AddMember.cs [Design]",
+              "RelativeToolTip": "Project Management\\AddMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:03:04.72Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\TaskBoard.cs",
+              "RelativeDocumentMoniker": "Project Management\\TaskBoard.cs",
+              "ToolTip": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\TaskBoard.cs [Design]",
+              "RelativeToolTip": "Project Management\\TaskBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:29:09.027Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskBoard.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\TaskBoard.cs",
+              "RelativeDocumentMoniker": "Project Management\\TaskBoard.cs",
+              "ToolTip": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\TaskBoard.cs",
+              "RelativeToolTip": "Project Management\\TaskBoard.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAIA4wMcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:45:10.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssignForm.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\AssignForm.cs",
+              "RelativeDocumentMoniker": "Project Management\\AssignForm.cs",
+              "ToolTip": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\AssignForm.cs",
+              "RelativeToolTip": "Project Management\\AssignForm.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAlwEoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:03:26.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssignForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\AssignForm.cs",
+              "RelativeDocumentMoniker": "Project Management\\AssignForm.cs",
+              "ToolTip": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\AssignForm.cs [Design]",
+              "RelativeToolTip": "Project Management\\AssignForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:03:01.748Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateFirstProject.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\CreateFirstProject.cs",
+              "RelativeDocumentMoniker": "Project Management\\CreateFirstProject.cs",
+              "ToolTip": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\CreateFirstProject.cs",
+              "RelativeToolTip": "Project Management\\CreateFirstProject.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAgwIQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:27:37.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\Register.cs",
+              "RelativeDocumentMoniker": "Project Management\\Register.cs",
+              "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\Register.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\jushu\\source\\repos\\Project Management\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:31:52.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\Home.cs",
+              "RelativeDocumentMoniker": "Project Management\\Home.cs",
+              "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\Home.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\jushu\\source\\repos\\Project Management\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:49:38.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AddNewMember.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\AddNewMember.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\AddNewMember.Designer.cs",
               "RelativeDocumentMoniker": "Project Management\\AddNewMember.Designer.cs",
-              "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\AddNewMember.Designer.cs",
+              "ToolTip": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\AddNewMember.Designer.cs",
               "RelativeToolTip": "Project Management\\AddNewMember.Designer.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAiwCIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,135 +254,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddNewMember.cs",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\AddNewMember.cs",
-              "RelativeDocumentMoniker": "Project Management\\AddNewMember.cs",
-              "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\AddNewMember.cs",
-              "RelativeToolTip": "Project Management\\AddNewMember.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAQwGcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:01:54.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddMember.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\AddMember.cs",
-              "RelativeDocumentMoniker": "Project Management\\AddMember.cs",
-              "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\AddMember.cs [Design]",
-              "RelativeToolTip": "Project Management\\AddMember.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:19:12.409Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Register.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\Register.cs",
-              "RelativeDocumentMoniker": "Project Management\\Register.cs",
-              "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\Register.cs [Design]",
-              "RelativeToolTip": "Project Management\\Register.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:31:52.328Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Home.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\Home.cs",
-              "RelativeDocumentMoniker": "Project Management\\Home.cs",
-              "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\Home.cs [Design]",
-              "RelativeToolTip": "Project Management\\Home.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T06:49:38.775Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateFirstProject.cs",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\CreateFirstProject.cs",
-              "RelativeDocumentMoniker": "Project Management\\CreateFirstProject.cs",
-              "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\CreateFirstProject.cs",
-              "RelativeToolTip": "Project Management\\CreateFirstProject.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAgwIQAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T02:27:37.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskBoard.cs",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\TaskBoard.cs",
-              "RelativeDocumentMoniker": "Project Management\\TaskBoard.cs",
-              "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\TaskBoard.cs",
-              "RelativeToolTip": "Project Management\\TaskBoard.cs",
-              "ViewState": "AgIAALgAAAAAAAAAAADwv80AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:45:10.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddNewMember.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\AddNewMember.cs",
-              "RelativeDocumentMoniker": "Project Management\\AddNewMember.cs",
-              "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\AddNewMember.cs [Design]",
-              "RelativeToolTip": "Project Management\\AddNewMember.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:51:45.232Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TaskBoard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\TaskBoard.cs",
-              "RelativeDocumentMoniker": "Project Management\\TaskBoard.cs",
-              "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\TaskBoard.cs [Design]",
-              "RelativeToolTip": "Project Management\\TaskBoard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:29:09.027Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddMember.cs",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\AddMember.cs",
-              "RelativeDocumentMoniker": "Project Management\\AddMember.cs",
-              "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\AddMember.cs",
-              "RelativeToolTip": "Project Management\\AddMember.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAqwGoAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:19:16.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "CreateFirstProject.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\CreateFirstProject.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\CreateFirstProject.cs",
               "RelativeDocumentMoniker": "Project Management\\CreateFirstProject.cs",
               "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\CreateFirstProject.cs [Design]",
-              "RelativeToolTip": "Project Management\\CreateFirstProject.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\jushu\\source\\repos\\Project Management\\CreateFirstProject.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:08:03.052Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-16T09:08:03.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "nav.cs",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\Components\\nav.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\Components\\nav.cs",
               "RelativeDocumentMoniker": "Project Management\\Components\\nav.cs",
-              "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\Components\\nav.cs",
+              "ToolTip": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\Components\\nav.cs",
               "RelativeToolTip": "Project Management\\Components\\nav.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -253,22 +277,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Btn.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\Components\\Btn.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\Components\\Btn.cs",
               "RelativeDocumentMoniker": "Project Management\\Components\\Btn.cs",
               "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\Components\\Btn.cs [Design]",
-              "RelativeToolTip": "Project Management\\Components\\Btn.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\jushu\\source\\repos\\Project Management\\Components\\Btn.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T09:30:57.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Btn.cs",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\Components\\Btn.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\Components\\Btn.cs",
               "RelativeDocumentMoniker": "Project Management\\Components\\Btn.cs",
-              "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\Components\\Btn.cs",
+              "ToolTip": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\Components\\Btn.cs",
               "RelativeToolTip": "Project Management\\Components\\Btn.cs",
               "ViewState": "AgIAAH4AAAAAAAAAAAAUwIUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -276,33 +300,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "TaskOverview.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\TaskOverview.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\TaskOverview.cs",
               "RelativeDocumentMoniker": "Project Management\\TaskOverview.cs",
               "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\TaskOverview.cs [Design]",
-              "RelativeToolTip": "Project Management\\TaskOverview.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\jushu\\source\\repos\\Project Management\\TaskOverview.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T05:10:43.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\Login.cs",
               "RelativeDocumentMoniker": "Project Management\\Login.cs",
               "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\Login.cs [Design]",
-              "RelativeToolTip": "Project Management\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\jushu\\source\\repos\\Project Management\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T02:10:17.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "MinimizeBtn.cs",
-              "DocumentMoniker": "C:\\Users\\jushu\\source\\repos\\Project Management\\Components\\MinimizeBtn.cs",
+              "DocumentMoniker": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\Components\\MinimizeBtn.cs",
               "RelativeDocumentMoniker": "Project Management\\Components\\MinimizeBtn.cs",
-              "ToolTip": "C:\\Users\\jushu\\source\\repos\\Project Management\\Components\\MinimizeBtn.cs",
+              "ToolTip": "C:\\Users\\lutiv\\Downloads\\project-management\\Project Management\\Components\\MinimizeBtn.cs",
               "RelativeToolTip": "Project Management\\Components\\MinimizeBtn.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
